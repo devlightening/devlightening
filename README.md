@@ -1,4 +1,3 @@
-<h2 align="center">Hi 👋, I'm <strong>Halil</strong></h2>
 <h3 align="center">Backend Developer | Java & C# Enthusiast | Open Source Contributor</h3>
 
 ---
