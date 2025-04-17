@@ -1,4 +1,4 @@
-<h1 align="center">⚡️🔧 𝙃𝘼𝙇𝙄𝙇 𝙔𝙄𝙇𝘿𝙄𝙍𝙄𝙈 🔧⚡️</h1>
+<h2 align="center">Hi 👋, I'm <strong>Halil</strong></h2>
 <h3 align="center">Backend Developer | Java & C# Enthusiast | Open Source Contributor</h3>
 
 ---
@@ -26,6 +26,7 @@
   <a href="mailto:ce.hybusiness@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=0AFFEF&size=30&lines=Hi+%F0%9F%91%8B%2C+I'm+Halil" />
 </p>
 
 ---
