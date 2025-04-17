@@ -8,7 +8,6 @@
 - 💬 I love working with technologies like **Java**, **C#**, and **PHP**  
 - 💞️ I'm looking to collaborate on **backend projects**, **API development**, and **open-source contributions**  
 - 📫 Reach me at: [ce.hybusiness@gmail.com](mailto:ce.hybusiness@gmail.com)  
-- 😄 Pronouns: **he/him**  
 - ⚡ Fun fact: I enjoy learning about **software architecture patterns** and optimizing **databases**
 
 ---
