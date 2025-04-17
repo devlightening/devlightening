@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Halil Yıldırım — Backend Developer & Software Enthusiast</h1>
+<h1 align="center">⚡️🔧 𝙃𝘼𝙇𝙄𝙇 𝙔𝙄𝙇𝘿𝙄𝙍𝙄𝙈 🔧⚡️</h1>
 <h3 align="center">Backend Developer | Java & C# Enthusiast | Open Source Contributor</h3>
 
 ---
