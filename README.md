@@ -1,4 +1,4 @@
-<h3 align="center">Backend Developer | Java & C# Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Backend Developer | .Net  Enthusiast | Open Source Contributor</h3>
 
 ---
 
