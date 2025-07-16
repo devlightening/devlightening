@@ -18,27 +18,23 @@
 ### 👨‍💻 About Me
 - 🔭 Currently building backend applications with **Spring Boot**, **Blazor**, and **ASP.NET MVC**
 - 💬 Passionate about **C#**, **Java**, and clean code practices
-- 💡 Interested in **Clean Architecture**, **Onion Architecture**, and **NArchitecture**
+- 💡 Interested in{
+    - Clean Architecture
+    - Onion Architecture
+    - N-Layered & NArchitecture
+    - CQRS + Mediator Pattern}
 - 🤝 Open to collaboration on **API development**, **backend services**, and **open-source**
 
 ---
 
 ### 🎯 Learning Goals for 2025
 
-- ✅ Microservice mimarileri (Docker + Kubernetes ile)
-- ✅ Redis, RabbitMQ gibi dağıtık sistem bileşenleri
-- ✅ Blazor WebAssembly ile SPA geliştirme
-- ✅ .NET 8 ve C# 12’nin yeni özellikleri
+- ✅ Microservice architectures (with Docker + Kubernetes)
+- ✅ Distributed system components such as Redis and RabbitMQ
+- ✅ SPA development with Blazor WebAssembly
+- ✅ New features of .NET 8 and C# 12
 
 ---
-
-### 🧠 Software Architectures I Love
-
-- Clean Architecture
-- Onion Architecture
-- N-Layered & NArchitecture
-- CQRS + Mediator Pattern
-
 
 ### 🛠️ Tech Stack
 
