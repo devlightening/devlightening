@@ -92,7 +92,7 @@
   </a>
   &nbsp;
   <a href="https://learn.microsoft.com/en-us/aspnet/core/signalr/introduction" target="_blank">
-    <img src="https://raw.githubusercontent.com/microsoft/SignalR-Docs/master/docs/images/signalr.png" alt="SignalR" width="60" height="60" />
+    <img src="[https://raw.githubusercontent.com/microsoft/SignalR-Docs/master/docs/images/signalr.png](https://dotnet.microsoft.com/blob-assets/images/illustrations/swimlane-azure-signalr-logo.svg)" alt="SignalR" width="60" height="60" />
   </a>
   &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank">
