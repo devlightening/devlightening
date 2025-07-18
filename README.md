@@ -91,7 +91,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="60" height="60" />
   </a>
   &nbsp;
- <a href="https://learn.microsoft.com/en-us/aspnet/core/signalr/introduction" target="_blank">
+ <a href="[https://learn.microsoft.com/en-us/aspnet/core/signalr/introduction](https://dotnet.microsoft.com/en-us/apps/aspnet/signalr)" target="_blank">
   <img src="https://github.com/microsoft/SignalR-Docs/raw/main/docs/images/signalr.png" alt="SignalR" width="60" height="60" />
 </a>
   </a>
