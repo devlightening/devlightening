@@ -40,11 +40,17 @@
 
 #### 💻 Programming Languages
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60" />
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60" />
+  </a>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60" />
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60" />
+  </a>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60" />
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60" />
+  </a>
 </p>
 
 #### 🚀 Frameworks & Technologies
@@ -84,27 +90,33 @@
   <a href="https://unity.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="60" height="60" />
   </a>
-   <!-- SignalR -->
-    <a href="https://learn.microsoft.com/en-us/aspnet/core/signalr/introduction" target="_blank">
-      <img src="https://raw.githubusercontent.com/microsoft/SignalR-Docs/master/docs/images/signalr.png" alt="SignalR" width="60" height="60" />
-    </a>
-    
-    <!-- AJAX -->
+  &nbsp;
+  <a href="https://learn.microsoft.com/en-us/aspnet/core/signalr/introduction" target="_blank">
+    <img src="https://raw.githubusercontent.com/microsoft/SignalR-Docs/master/docs/images/signalr.png" alt="SignalR" width="60" height="60" />
+  </a>
+  &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/AJAX_logo_by_gengns.svg" alt="AJAX" width="60" height="60" />
   </a>
-
 </p>
 
 #### 🧰 Databases & Tools
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="60" height="60" />
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="60" height="60" />
+  </a>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" />
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" />
+  </a>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" />
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" />
+  </a>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" />
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" />
+  </a>
 </p>
 
 ---
