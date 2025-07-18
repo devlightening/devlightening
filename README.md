@@ -84,14 +84,16 @@
   <a href="https://unity.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="60" height="60" />
   </a>
-  &nbsp;
-  <a href="https://learn.microsoft.com/en-us/aspnet/core/signalr/introduction" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/SignalR_logo.png" alt="SignalR" width="60" height="60" />
-  </a>
-  &nbsp;
+   <!-- SignalR -->
+    <a href="https://learn.microsoft.com/en-us/aspnet/core/signalr/introduction" target="_blank">
+      <img src="https://raw.githubusercontent.com/microsoft/SignalR-Docs/master/docs/images/signalr.png" alt="SignalR" width="60" height="60" />
+    </a>
+    
+    <!-- AJAX -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/AJAX_logo_by_gengns.svg" alt="AJAX" width="60" height="60" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/AJAX_logo_by_gengns.svg" alt="AJAX" width="60" height="60" />
   </a>
+
 </p>
 
 #### 🧰 Databases & Tools
