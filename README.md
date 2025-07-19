@@ -34,6 +34,8 @@
 
 ---
 
+---
+
 ### 🛠️ Tech Stack
 
 #### 💻 Programming Languages
@@ -98,11 +100,11 @@
   </a>
   &nbsp;
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/signalr" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/212134015-dd0b4845-d85c-4d30-b3b3-8b1a37a918e9.png" alt="SignalR" width="60" height="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/signalr/signalr-original.svg" alt="SignalR" width="60" height="60" />
   </a>
   &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/ajax.png" alt="AJAX" width="60" height="60" />
+    <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white" alt="AJAX" width="60" height="60" />
   </a>
 </p>
 
@@ -132,6 +134,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" />
   </a>
 </p>
+
+---
 
 ---
 
