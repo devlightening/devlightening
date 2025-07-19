@@ -122,9 +122,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60" />
   </a>
   &nbsp;
-  <a href="https://www.apachefriends.org/index.html" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/212132382-95ad4acf-bb45-470b-9a63-65bb9d74b24f.png" alt="XAMPP" width="60" height="60" />
-  </a>
+<a href="https://www.apachefriends.org/" target="_blank">
+  <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="60" height="60" />
+</a>
   &nbsp;
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" />
