@@ -93,7 +93,7 @@
   &nbsp;
 <!-- SignalR -->
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/signalr" target="_blank">
-  <img src="https://dotnet.microsoft.com/static/images/swimlane-azure-signalr-logo.svg" alt="SignalR" width="60" height="60" />
+  <img src="[https://dotnet.microsoft.com/static/images/swimlane-azure-signalr-logo.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRITIiVYKMVb2P7VBVn4WfRlNFAXE8BFQPZSw&s)" alt="SignalR" width="60" height="60" />
 </a>
 
   </a>
