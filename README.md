@@ -16,23 +16,21 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently building backend applications with **Spring Boot**, **Blazor**, and **ASP.NET MVC**
-- 💬 Passionate about **C#**, **Java**, and clean code practices
-- 💡 Interested in:
-  - Clean Architecture  
-  - Onion Architecture  
-  - N-Layered & NArchitecture  
-  - CQRS + Mediator Pattern
-- 🤝 Open to collaboration on **API development**, **backend services**, and **open-source**
+- 🔭 Currently building robust backend applications with **Spring Boot**, **Blazor**, and **ASP.NET MVC**.
+- 💬 Passionate about **C#**, **Java**, and implementing **clean code practices** for scalable and maintainable systems.
+- 💡 Deeply interested in:
+  - **Clean Architecture** & **Onion Architecture** - **N-Layered** & **NArchitecture** approaches
+  - **CQRS + Mediator Pattern** for enhanced application performance and separation of concerns.
+- 🤝 Open to collaboration on **API development**, **backend services**, and contributing to **open-source** projects.
 
 ---
 
 ### 🎯 Learning Goals for 2025
 
-- ✅ Microservice architectures (with Docker + Kubernetes)
-- ✅ Distributed system components such as Redis and RabbitMQ
-- ✅ SPA development with Blazor WebAssembly
-- ✅ New features of .NET 8 and C# 12
+- ✅ Mastering **Microservice architectures** (with Docker + Kubernetes) for highly scalable solutions.
+- ✅ Exploring **Distributed System components** such as Redis (for caching) and RabbitMQ (for message queuing).
+- ✅ Developing responsive **Single Page Applications (SPAs)** with Blazor WebAssembly.
+- ✅ Staying current with the **new features of .NET 8 and C# 12**.
 
 ---
 
@@ -60,7 +58,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" />
   </a>
 </p>
-
 
 #### 🚀 Frameworks & Technologies
 <p align="center">
@@ -100,15 +97,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="60" height="60" />
   </a>
   &nbsp;
-<!-- SignalR -->
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/signalr" target="_blank">
-  <img src="[https://dotnet.microsoft.com/static/images/swimlane-azure-signalr-logo.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRITIiVYKMVb2P7VBVn4WfRlNFAXE8BFQPZSw&s)" alt="SignalR" width="60" height="60" />
-</a>
-
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/signalr" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/212134015-dd0b4845-d85c-4d30-b3b3-8b1a37a918e9.png" alt="SignalR" width="60" height="60" />
   </a>
   &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/AJAX_logo_by_gengns.svg" alt="AJAX" width="60" height="60" />
+    <img src="https://img.icons8.com/color/48/000000/ajax.png" alt="AJAX" width="60" height="60" />
   </a>
 </p>
 
@@ -138,7 +132,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" />
   </a>
 </p>
-
 
 ---
 
