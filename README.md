@@ -100,7 +100,7 @@
   </a>
   &nbsp;
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/signalr" target="_blank">
-  <img src="https://dotnet.microsoft.com/blob-assets/images/illustrations/swimlane-azure-signalr-logo.svg" alt="SignalR" width="80" height="80" />
+  <img src="https://dotnet.microsoft.com/blob-assets/images/illustrations/swimlane-azure-signalr-logo.svg" alt="SignalR" width="120" height="120" />
 </a>
 
   &nbsp;
