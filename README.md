@@ -99,9 +99,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="60" height="60" />
   </a>
   &nbsp;
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/signalr" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/signalr/signalr-original.svg" alt="SignalR" width="60" height="60" />
-  </a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/signalr" target="_blank">
+  <img src="https://dotnet.microsoft.com/blob-assets/images/illustrations/swimlane-azure-signalr-logo.svg" alt="SignalR" width="60" height="60" />
+</a>
+
   &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank">
     <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white" alt="AJAX" width="60" height="60" />
