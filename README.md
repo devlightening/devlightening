@@ -71,43 +71,17 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="60" height="60" />
   </a>
   &nbsp;
+  <a href="https://www.rabbitmq.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="60" height="60" />
+  </a>
+  &nbsp;
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" />
   </a>
   &nbsp;
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://angular.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://unity.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="60" height="60" />
-  </a>
-  &nbsp;
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/signalr" target="_blank">
-  <img src="https://dotnet.microsoft.com/blob-assets/images/illustrations/swimlane-azure-signalr-logo.svg" alt="SignalR" width="120" height="120" />
-</a>
-
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank">
-    <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white" alt="AJAX" width="60" height="60" />
-  </a>
+  <!-- diğer logolar -->
 </p>
+
 
 #### 🧰 Databases & Tools
 <p align="center">
