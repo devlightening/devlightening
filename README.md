@@ -109,6 +109,10 @@
   </a>
 </p>
 
+ &nbsp;
+<a href="https://www.rabbitmq.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="60" height="60" />
+</a>
 #### 🧰 Databases & Tools
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
