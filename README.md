@@ -5,9 +5,11 @@
   <a href="mailto:ce.hybusiness@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/0001myprofile/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/yyldrmhalil/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -71,6 +73,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="60" height="60" />
   </a>
   &nbsp;
+  <a href="https://www.rabbitmq.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="60" height="60" />
+  </a>
+  &nbsp;
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" />
   </a>
@@ -99,18 +105,15 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="60" height="60" />
   </a>
   &nbsp;
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/signalr" target="_blank">
-  <img src="https://dotnet.microsoft.com/blob-assets/images/illustrations/swimlane-azure-signalr-logo.svg" alt="SignalR" width="80" height="80" />
-</a>
-
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/signalr" target="_blank">
+    <img src="https://dotnet.microsoft.com/blob-assets/images/illustrations/swimlane-azure-signalr-logo.svg" alt="SignalR" width="80" height="80" />
+  </a>
   &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank">
     <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white" alt="AJAX" width="60" height="60" />
   </a>
 </p>
-<a href="https://www.rabbitmq.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="60" height="60" />
-</a>
+
 #### 🧰 Databases & Tools
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
@@ -125,9 +128,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60" />
   </a>
   &nbsp;
-<a href="https://www.apachefriends.org/" target="_blank">
-  <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="60" height="60" />
-</a>
+  <a href="https://www.apachefriends.org/" target="_blank">
+    <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="60" height="60" />
+  </a>
   &nbsp;
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" />
@@ -146,11 +149,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devlightening&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlightening&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devlightening&theme=tokyonight&hide_border=true" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=
 
 ---
 
