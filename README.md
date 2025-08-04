@@ -108,8 +108,6 @@
     <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white" alt="AJAX" width="60" height="60" />
   </a>
 </p>
-
- &nbsp;
 <a href="https://www.rabbitmq.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="60" height="60" />
 </a>
