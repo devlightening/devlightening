@@ -112,6 +112,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank">
     <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white" alt="AJAX" width="60" height="60" />
   </a>
+  <a href="https://trello.com" target="_blank">
+  <img src="https://img.shields.io/badge/Trello-%230052CC.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" width="60" height="60" />
+</a>
 </p>
 
 #### 🧰 Databases & Tools
