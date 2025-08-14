@@ -147,7 +147,6 @@
   <img src="https://www.eventstore.com/hs-fs/hubfs/Event%20Store%20Logo/event-store_logo-white.svg" alt="EventStoreDB" width="60" height="60" style="background-color: #000; padding: 5px; border-radius: 5px;" />
 </a>
 </p>
-
 ---
 
 ---
