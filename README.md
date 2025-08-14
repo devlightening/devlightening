@@ -36,8 +36,6 @@
 
 ---
 
----
-
 ### 🛠️ Tech Stack
 
 #### 💻 Programming Languages
@@ -112,78 +110,46 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank">
     <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white" alt="AJAX" width="60" height="60" />
   </a>
+  &nbsp;
   <a href="https://trello.com" target="_blank">
-  <img src="https://img.shields.io/badge/Trello-%230052CC.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" width="60" height="60" />
-</a>
+    <img src="https://img.shields.io/badge/Trello-%230052CC.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" width="60" height="60" />
+  </a>
 </p>
 
 #### 🧰 Databases & Tools
-
 <p align="center">
-
-  <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="60" height="60" />
-
-  </a>
-
-  &nbsp;
-
-  <a href="https://www.mysql.com/" target="_blank">
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" />
-
-  </a>
-
-  &nbsp;
-
-  <a href="https://www.postgresql.org/" target="_blank">
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60" />
-
-  </a>
-
-  &nbsp;
-
-  <a href="https://www.apachefriends.org/" target="_blank">
-
-    <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="60" height="60" />
-
-  </a>
-
-  &nbsp;
-
-  <a href="https://www.mongodb.com/" target="_blank">
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" />
-
-  </a>
-
-  &nbsp;
-
-  <a href="https://git-scm.com/" target="_blank">
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" />
-
-  </a>
-
-  &nbsp;
-
-<a href="https://www.eventstore.com/" target="_blank">
-
-  <img src="https://www.eventstore.com/hs-fs/hubfs/Event%20Store%20Logo/event-store_logo-white.svg" alt="EventStoreDB" width="60" height="60" style="background-color: #000; padding: 5px; border-radius: 5px;" />
-
-</a>
-
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="60" height="60" />
+  </a>
+  &nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" />
+  </a>
+  &nbsp;
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60" />
+  </a>
+  &nbsp;
+  <a href="https://www.apachefriends.org/" target="_blank">
+    <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="60" height="60" />
+  </a>
+  &nbsp;
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" />
+  </a>
+  &nbsp;
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" />
+  </a>
+  &nbsp;
+  <a href="https://www.eventstore.com/" target="_blank">
+    <img src="https://www.eventstore.com/hs-fs/hubfs/Event%20Store%20Logo/event-store_logo-white.svg" alt="EventStoreDB" width="60" height="60" style="background-color: #000; padding: 5px; border-radius: 5px;" />
+  </a>
 </p>
-
-
----
 
 ---
 
 ### 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devlightening&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   &nbsp;
