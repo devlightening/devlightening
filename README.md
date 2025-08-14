@@ -142,9 +142,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" />
   </a>
   &nbsp;
-  <a href="https://www.eventstore.com/" target="_blank">
-    <img src="https://www.eventstore.com/hs-fs/hubfs/Event%20Store%20Logo/event-store_logo-white.svg" alt="EventStoreDB" width="60" height="60" style="background-color: #000; padding: 5px; border-radius: 5px;" />
-  </a>
+  <a href="https://www.eventstore.com/">
+  <img src="https://www.eventstore.com/hs-fs/hubfs/Event%20Store%20Logo/event-store_logo-white.svg" alt="EventStoreDB" width="60" height="60" />
+</a>
 </p>
 
 ---
