@@ -143,10 +143,10 @@
   </a>
   &nbsp;
   <a href="https://www.eventstore.com/">
-  <img src="<img width="225" height="225" alt="eventstore" src="https://github.com/user-attachments/assets/2152ed86-f419-4446-b8dc-0bd76bacf352" />
-" alt="EventStoreDB" width="60" height="60" />
+  <img width="225" height="225" alt="eventstore" src="https://github.com/user-attachments/assets/584daf6f-9c01-47fc-ad4f-148d14824d94"  alt="EventStoreDB" width="60" height="60" />
 </a>
 </p>
+<img width="225" height="225" alt="eventstore" src="https://github.com/user-attachments/assets/584daf6f-9c01-47fc-ad4f-148d14824d94" />
 
 ---
 
