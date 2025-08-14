@@ -121,9 +121,6 @@
   <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="60" height="60" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="60" height="60" />
- </a>
   &nbsp;
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" />
