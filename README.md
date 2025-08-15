@@ -1,5 +1,5 @@
 <h2 align="center">Halil Yıldırım</h2>
-<h4 align="center">Backend Developer | .NET & Java Enthusiast | Open Source Contributor</h4>
+<h4 align="center">Backend Developer | .NET & Java Enthusiast </h4>
 
 <p align="center">
   <a href="mailto:ce.hybusiness@gmail.com">
