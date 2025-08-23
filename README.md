@@ -145,9 +145,6 @@
   <a href="https://www.eventstore.com/">
   <img width="60" height="60" alt="eventstore" src="https://github.com/user-attachments/assets/584daf6f-9c01-47fc-ad4f-148d14824d94"  alt="EventStoreDB" width="60" height="60" />
 </a>
-  <a href="https://www.docker.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" />
-</a>
 </p>
 
 ---
