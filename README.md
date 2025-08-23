@@ -48,16 +48,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60" />
   </a>
   &nbsp;
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
   </a>
   &nbsp;
-  <a href="https://en.cppreference.com/w/c" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://en.cppreference.com/w/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" />
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" />
   </a>
 </p>
 
@@ -79,24 +75,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" />
   </a>
   &nbsp;
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="60" height="60" />
-  </a>
-  &nbsp;
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="60" height="60" />
   </a>
   &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
-  </a>
-  &nbsp;
   <a href="https://angular.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" />
   </a>
   &nbsp;
   <a href="https://unity.com/" target="_blank">
@@ -104,15 +88,7 @@
   </a>
   &nbsp;
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/signalr" target="_blank">
-    <img src="https://dotnet.microsoft.com/blob-assets/images/illustrations/swimlane-azure-signalr-logo.svg" alt="SignalR" width="80" height="80" />
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank">
-    <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white" alt="AJAX" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://trello.com" target="_blank">
-    <img src="https://img.shields.io/badge/Trello-%230052CC.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" width="60" height="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/signalr/signalr-original.svg" alt="SignalR" width="60" height="60" />
   </a>
 </p>
 
@@ -130,10 +106,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60" />
   </a>
   &nbsp;
-  <a href="https://www.apachefriends.org/" target="_blank">
-    <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="60" height="60" />
-  </a>
-  &nbsp;
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" />
   </a>
@@ -143,11 +115,12 @@
   </a>
   &nbsp;
   <a href="https://www.eventstore.com/">
-  <img width="60" height="60" alt="eventstore" src="https://github.com/user-attachments/assets/584daf6f-9c01-47fc-ad4f-148d14824d94"  alt="EventStoreDB" width="60" height="60" />
-</a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eventstore/eventstore-original.svg" alt="EventStoreDB" width="60" height="60" />
+  </a>
+  &nbsp;
   <a href="https://www.docker.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" />
-</a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" />
+  </a>
 </p>
 
 ---
