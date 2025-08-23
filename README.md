@@ -1,5 +1,5 @@
-<h2 align="center">Halil Yıldırım</h2>
-<h4 align="center">Backend Developer | .NET & Java Enthusiast </h4>
+<h1 align="center">Halil Yıldırım</h1>
+<h3 align="center">CODE ARCHITECT | BACKEND SPACE ENGINEER</h3>
 
 <p align="center">
   <a href="mailto:ce.hybusiness@gmail.com">
@@ -17,17 +17,17 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Mission Statement
 - 🔭 Currently building robust backend applications with **Spring Boot**, **Blazor**, and **ASP.NET MVC**.
-- 💬 Passionate about **C#**, **Java**, and implementing **clean code practices** for scalable and maintainable systems.
-- 💡 Deeply interested in:
-  - **Clean Architecture** & **Onion Architecture** - **N-Layered** & **NArchitecture** approaches
-  - **CQRS + Mediator Pattern** for enhanced application performance and separation of concerns.
+- 💬 Passionate about **C#**, **Java**, and implementing **clean code protocols** for scalable and maintainable systems.
+- 💡 My Spaceship:
+  - **Clean Architecture** & **Onion Architecture** - **N-Layered** & **NArchitecture** approaches.
+  - **CQRS + Mediator Pattern** for enhanced performance and modularity.
 - 🤝 Open to collaboration on **API development**, **backend services**, and contributing to **open-source** projects.
 
 ---
 
-### 🎯 Learning Goals for 2025
+### 🚀 Launch Schedule for 2025
 
 - ✅ Mastering **Microservice architectures** (with Docker + Kubernetes) for highly scalable solutions.
 - ✅ Exploring **Distributed System components** such as Redis (for caching) and RabbitMQ (for message queuing).
@@ -36,9 +36,9 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technology Base
 
-#### 💻 Programming Languages
+#### 💻 CODING LANGUAGES
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60" />
@@ -61,7 +61,7 @@
   </a>
 </p>
 
-#### 🚀 Frameworks & Technologies
+#### 🚀 ARCHITECTURE & TECHNOLOGIES
 <p align="center">
   <a href="https://dotnet.microsoft.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="60" height="60" />
@@ -104,7 +104,7 @@
   </a>
   &nbsp;
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/signalr" target="_blank">
-    <img src="https://dotnet.microsoft.com/blob-assets/images/illustrations/swimlane-azure-signalr-logo.svg" alt="SignalR" width="80" height="80" />
+    <img src="https://dotnet.microsoft.com/blob-assets/images/illustrations/swimlane-azure-signalr-logo.svg" alt="SignalR" width="60" height="60" />
   </a>
   &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank">
@@ -116,7 +116,7 @@
   </a>
 </p>
 
-#### 🧰 Databases & Tools
+#### 🧰 SYSTEM UTILITIES
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="60" height="60" />
@@ -143,13 +143,17 @@
   </a>
   &nbsp;
   <a href="https://www.eventstore.com/">
-  <img width="60" height="60" alt="eventstore" src="https://github.com/user-attachments/assets/584daf6f-9c01-47fc-ad4f-148d14824d94"  alt="EventStoreDB" width="60" height="60" />
-</a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eventstore/eventstore-original.svg" alt="EventStoreDB" width="60" height="60" />
+  </a>
+  &nbsp;
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" />
+  </a>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Cyber-Space Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devlightening&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   &nbsp;
