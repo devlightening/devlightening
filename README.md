@@ -159,9 +159,6 @@
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlightening&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devlightening&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="50%" />
-</p>
 ---
 
 > _“Clean code, clean architecture, clean mind.”_
