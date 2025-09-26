@@ -86,6 +86,9 @@
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="60" height="60" />
   </a>
+  <a href="https://insomnia.rest/" target="_blank">
+  <img src="https://raw.githubusercontent.com/insomnia-rest/insomnia-icons/master/insomnia.svg" alt="Insomnia" width="60" height="60" />
+  </a>
   &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
