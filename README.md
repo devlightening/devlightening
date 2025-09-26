@@ -87,7 +87,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="60" height="60" />
   </a>
   <a href="https://insomnia.rest/" target="_blank">
-  <img src="https://raw.githubusercontent.com/insomnia-rest/insomnia-icons/master/insomnia.svg" alt="Insomnia" width="60" height="60" />
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" alt="Insomnia" width="60" height="60" />
   </a>
   &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
