@@ -1,5 +1,5 @@
 <h1 align="center">Halil Yıldırım</h1>
-<h3 align="center">Backend Developer | Distributed Systems</h3>
+<h3 align="center">.Net Backend Developer | Distributed Systems</h3>
 
 <p align="center">
   <a href="mailto:ce.hybusiness@gmail.com">
