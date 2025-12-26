@@ -79,6 +79,10 @@ Backend engineering is not just about writing code — it is about designing sys
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60" />
   </a>
   &nbsp;
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" />
+  </a>
+  &nbsp;
   <a href="https://www.php.net/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60" />
   </a>
@@ -91,6 +95,7 @@ Backend engineering is not just about writing code — it is about designing sys
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" />
   </a>
 </p>
+
 
 #### 🚀 ARCHITECTURE & TECHNOLOGIES
 <p align="center">
