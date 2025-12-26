@@ -1,171 +1,98 @@
 <h1 align="center">Halil Yıldırım</h1>
-<h3 align="center">.Net Backend Developer | Distributed Systems</h3>
+<h3 align="center">.NET Backend Developer | Distributed Systems Architect</h3>
 
 <p align="center">
   <a href="mailto:ce.hybusiness@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/0001myprofile/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="https://www.instagram.com/yyldrmhalil/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 👨‍💻 Mission Statement
-- 🔭 Currently building robust backend applications with **Spring Boot**, **Blazor**, and **ASP.NET MVC**.
-- 💬 Passionate about **C#**, **Java**, and implementing **clean code protocols** for scalable and maintainable systems.
-- 💡 My Spaceship:
-  - **Clean Architecture** & **Onion Architecture** - **N-Layered** & **NArchitecture** approaches.
-  - **CQRS + Mediator Pattern** for enhanced performance and modularity.
-- 🤝 Open to collaboration on **API development**, **backend services**, and contributing to **open-source** projects.
+## 🚀 Mission Statement – What I’ve Built (Verified)
+
+I define success by **real projects built, deployed, and architected**, not just concepts.  
+Here’s what I’ve achieved so far:
+
+### 🏆 Backend & Distributed Systems
+- Architected **Microservice API Gateways** with *YARP* and *Ocelot* for scalable routing. :contentReference[oaicite:1]{index=1}
+- Built **traceability & health check microservices** demonstrating observability fundamentals. :contentReference[oaicite:2]{index=2}
+- Implemented **CQRS, Event Sourcing, and Saga Patterns** in real microservices solutions. :contentReference[oaicite:3]{index=3}
+
+### 🧠 Clean Architecture Advocate
+- Applied *Clean Architecture* and **CQRS + Mediator** across multiple .NET and ASP.NET Core projects. :contentReference[oaicite:4]{index=4}
+- Designed **Onion Architecture** projects with modular separation. :contentReference[oaicite:5]{index=5}
+
+### 📦 Distributed Transactions & Messaging
+- Demonstrated **Outbox / InBox pattern** for reliable messaging. :contentReference[oaicite:6]{index=6}
+- Built examples with **RabbitMQ & MassTransit**. :contentReference[oaicite:7]{index=7}
+
+### 📊 Full Project Showcase Highlights
+- **DriveNow** – Car rental platform using clean separation of concerns. :contentReference[oaicite:8]{index=8}
+- **RestaurantAppSignalR** – Real-time SignalR order management. :contentReference[oaicite:9]{index=9}
+- **DotAI** – .NET project integrating 20+ AI services. :contentReference[oaicite:10]{index=10}
+- **MicroCommerce** – E-commerce microservices example. :contentReference[oaicite:11]{index=11}
+- **Inter-Service Communication Models** – Practical comparison of gRPC/HTTP/Rabbit patterns. :contentReference[oaicite:12]{index=12}
 
 ---
 
-### 🚀 Launch Schedule for 2025
+## 🛠️ Tech Stack I Love
 
-- ✅ Mastering **Microservice architectures** (with Docker + Kubernetes) for highly scalable solutions.
-- ✅ Exploring **Distributed System components** such as Redis (for caching) and RabbitMQ (for message queuing).
-- ✅ Developing responsive **Single Page Applications (SPAs)** with Blazor WebAssembly.
-- ✅ Staying current with the **new features of .NET 8 and C# 12**.
-
----
-
-### 🛠️ Technology Base
-
-#### 💻 CODING LANGUAGES
+### 💻 Core Languages
 <p align="center">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://en.cppreference.com/w/c" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://en.cppreference.com/w/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/>
 </p>
 
-#### 🚀 ARCHITECTURE & TECHNOLOGIES
+### ⚙️ Frameworks & Tools
 <p align="center">
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://www.rabbitmq.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="60" height="60" />
-  </a>
-  <a href="https://insomnia.rest/" target="_blank">
-    <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" alt="Insomnia" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://angular.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://unity.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/signalr" target="_blank">
-    <img src="https://dotnet.microsoft.com/blob-assets/images/illustrations/swimlane-azure-signalr-logo.svg" alt="SignalR" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank">
-    <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white" alt="AJAX" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://trello.com" target="_blank">
-    <img src="https://img.shields.io/badge/Trello-%230052CC.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" width="60" height="60" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="48"/>
 </p>
 
-#### 🧰 SYSTEM UTILITIES
+### 🚀 Databases & Infra
 <p align="center">
-  <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://www.apachefriends.org/" target="_blank">
-    <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" />
-  </a>
-  &nbsp;
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" />
-  </a>
-  &nbsp;
- <a href="https://www.eventstore.com/">
-  <img width="60" height="60" alt="eventstore" src="https://github.com/user-attachments/assets/584daf6f-9c01-47fc-ad4f-148d14824d94"  alt="EventStoreDB" width="60" height="60" />
-</a>
-  &nbsp;
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
 </p>
 
 ---
 
-### 📈 Cyber-Space Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devlightening&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="devlightening's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlightening&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devlightening&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devlightening&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="94%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlightening&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
 
-> _“Clean code, clean architecture, clean mind.”_
+> _“Practical architecture > theoretical design.”_
+
+---
+
+## 🧠 Next Level Add-Ons (Optional)
+
+Want your README even *stronger*? Add:
+
+✅ Featured project cards (with badges & deploy links)  
+✅ Architecture diagrams (SVG/PNG)  
+✅ GitHub Actions build badges  
+✅ Tech radar / roadmap badges
+
+---
+
