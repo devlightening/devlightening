@@ -1,5 +1,5 @@
 <h1 align="center">Halil Yıldırım</h1>
-<h3 align="center">.Net Backend Developer | Distributed Systems</h3>
+<h3 align="center">.NET Backend Developer | Distributed Systems</h3>
 
 <p align="center">
   <a href="mailto:ce.hybusiness@gmail.com">
@@ -17,59 +17,48 @@
 
 ---
 
-### 👨‍💻 Mission Statement
+### Core Competencies
 
-Backend engineering is not just about writing code — it is about designing systems that can evolve.
+Modern backend engineering is not merely about writing code; it is about architecting sustainable, flexible, and high-availability systems.
 
-- 🔭 I design and build **scalable, production-oriented backend systems** using **.NET**, **ASP.NET Core**, and **Spring Boot**.
-- 🧠 Strong focus on **Clean Architecture**, **Domain-Driven Design (DDD)**, and **explicit system boundaries**.
-- ⚙️ Hands-on experience with **microservice architectures**, **API Gateways**, and **service-to-service communication**.
-- 💡 Architecture mindset:
-  - **Clean / Onion Architecture** with strict separation of concerns
-  - **CQRS + Mediator Pattern** applied in real implementations
-  - **Event-driven systems** for decoupling and resilience
-- 🤝 Open to collaboration on **distributed systems**, **backend-heavy platforms**, and **architecture-focused open-source projects**.
+* **Ecosystem:** Developing enterprise-grade backend solutions within the .NET and Spring Boot ecosystems.
+* **Architecture:** Implementation of Clean Architecture and Domain-Driven Design (DDD) principles with strict layer separation and boundary management.
+* **Distributed Systems:** Expertise in microservices architecture, API Gateway integration, and cross-service data consistency.
+* **Design Patterns:** Proficient in adapting CQRS, Mediator, and Event-Driven approaches to manage complex business logic.
 
 ---
 
-### 🚀 Launch Schedule for 2025
+### Roadmap & Technical Progress
 
-- ✅ Designed and implemented **microservice-based backend solutions** with Dockerized services
-- ✅ Applied **CQRS, Event Sourcing, and Saga patterns** in practical system designs
-- ✅ Built **API Gateway layers** for routing, aggregation, and cross-cutting concerns
-- ✅ Implemented **asynchronous messaging** with RabbitMQ for loose coupling
-- ✅ Used **Redis** for caching and performance optimization scenarios
-- ✅ Developed **real-time communication flows** using SignalR
-- 🎯 Currently focusing on **observability**, **system resilience**, and **distributed consistency**
-
----
-
-### 🧠 Engineering Philosophy
-
-- I prefer **clarity over cleverness**
-- I design systems to be **understandable by humans**, not just machines
-- I believe architecture should:
-  - Reduce cognitive load
-  - Make failures visible
-  - Allow change without fear
-- I treat backend systems as **long-living products**, not short-term solutions
-- I value **explicit flows, strong boundaries, and predictable behavior**
+* Design and orchestration of containerized microservices using Docker.
+* Implementation of Saga (Choreography/Orchestration) and Outbox patterns for data integrity in distributed environments.
+* Asynchronous messaging and event-bus configurations utilizing RabbitMQ.
+* Distributed caching and data optimization strategies based on Redis.
+* Development of low-latency, real-time data transmission pipelines with SignalR.
+* Current Focus: System observability (OpenTelemetry), resilience engineering, and distributed consensus protocols.
 
 ---
 
-### 💼 What I Bring to a Team
+### Engineering Philosophy
 
-- Strong ownership mindset — caring about the system beyond the ticket
-- Ability to translate **business requirements into technical architecture**
-- Pragmatic decision-making with clear trade-offs
-- Clean, readable, and maintainable codebases
-- A calm and structured approach to complex backend problems
+* **Clarity Over Cleverness:** Prioritizing maintainable and readable code standards over unnecessary complexity.
+* **System Predictability:** Building predictable execution flows and transparent error handling mechanisms.
+* **Structural Integrity:** Focusing on long-term solutions that minimize technical debt during architectural decision-making.
+* **Pragmatic Approach:** Evaluating engineering problems through a rational lens of business requirements and performance trade-offs.
 
 ---
 
-### 🛠️ Technology Base
+### Professional Value
 
-#### 💻 CODING LANGUAGES
+* Ability to translate business requirements into technical architecture while maintaining end-to-end system ownership.
+* Committed to clean code principles (SOLID) to ensure testable and well-documented codebases.
+* Analytical and structural approach to solving complex backend challenges.
+
+---
+
+### Technology Base
+
+#### CODING LANGUAGES
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60" />
@@ -96,8 +85,7 @@ Backend engineering is not just about writing code — it is about designing sys
   </a>
 </p>
 
-
-#### 🚀 ARCHITECTURE & TECHNOLOGIES
+#### ARCHITECTURE & TECHNOLOGIES
 <p align="center">
   <a href="https://dotnet.microsoft.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="60" height="60" />
@@ -122,6 +110,7 @@ Backend engineering is not just about writing code — it is about designing sys
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="60" height="60" />
   </a>
+  &nbsp;
   <a href="https://insomnia.rest/" target="_blank">
     <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" alt="Insomnia" width="60" height="60" />
   </a>
@@ -147,7 +136,7 @@ Backend engineering is not just about writing code — it is about designing sys
   </a>
 </p>
 
-#### 🧰 SYSTEM UTILITIES
+#### SYSTEM UTILITIES
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="60" height="60" />
@@ -176,7 +165,7 @@ Backend engineering is not just about writing code — it is about designing sys
 
 ---
 
-### 📈 Cyber-Space Stats
+### Cyber-Space Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devlightening&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -187,4 +176,4 @@ Backend engineering is not just about writing code — it is about designing sys
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devlightening&theme=tokyonight&hide_border=true" width="94%" />
 </p>
 
-> _“Clean code, clean architecture, clean mind.”_
+> Clean code, clean architecture, clean mind.
