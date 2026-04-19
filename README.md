@@ -43,127 +43,169 @@ Currently building a full-stack dietitian platform with a React Native mobile ap
 ### Technology Stack
 
 #### LANGUAGES
-<p align="center">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="55" height="55" />
-  </a>
-  &nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="55" height="55" />
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55" />
-  </a>
-  &nbsp;
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="55" height="55" />
-  </a>
-  &nbsp;
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="55" height="55" />
-  </a>
-  &nbsp;
-  <a href="https://en.cppreference.com/w/c" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="55" height="55" />
-  </a>
-  &nbsp;
-  <a href="https://en.cppreference.com/w/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="70">
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TS" />
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JS" />
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://www.java.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://www.python.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://en.cppreference.com/w/c">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C" />
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://en.cppreference.com/w/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 #### BACKEND & INFRASTRUCTURE
-<p align="center">
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="55" height="55" />
-  </a>
-  &nbsp;
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="55" height="55" />
-  </a>
-  &nbsp;
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="55" height="55" />
-  </a>
-  &nbsp;
-  <a href="https://www.rabbitmq.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="55" height="55" />
-  </a>
-  &nbsp;
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="55" height="55" />
-  </a>
-  &nbsp;
-  <a href="https://openai.com/" target="_blank">
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white&style=for-the-badge" alt="OpenAI" height="40" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="70">
+      <a href="https://dotnet.microsoft.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt=".NET" />
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://spring.io/projects/spring-boot">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring" />
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://www.docker.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://www.rabbitmq.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="45" height="45" alt="RabbitMQ" />
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://redis.io/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45" alt="Redis" />
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://openai.com/">
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="35" alt="OpenAI" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 #### FRONTEND & MOBILE
-<p align="center">
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="55" height="55" />
-  </a>
-  &nbsp;
-  <a href="https://expo.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white&style=for-the-badge" alt="Expo" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="55" height="55" />
-  </a>
-  &nbsp;
-  <a href="https://angular.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="55" height="55" />
-  </a>
-  &nbsp;
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="55" height="55" />
-  </a>
-  &nbsp;
-  <a href="https://unity.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="55" height="55" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="70">
+      <a href="https://reactnative.dev/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://expo.dev/">
+        <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="35" alt="Expo" />
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://nextjs.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js" />
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://angular.io/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45" alt="Angular" />
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://tailwindcss.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind" />
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://unity.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45" height="45" alt="Unity" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 #### DATABASES & DATA
-<p align="center">
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="55" height="55" />
-  </a>
-  &nbsp;
-  <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="55" height="55" />
-  </a>
-  &nbsp;
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55" />
-  </a>
-  &nbsp;
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55" />
-  </a>
-  &nbsp;
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="55" height="55" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="70">
+      <a href="https://www.postgresql.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://learn.microsoft.com/en-us/sql/sql-server/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="MSSQL" />
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://www.mysql.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://www.mongodb.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" />
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://redis.io/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45" alt="Redis" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 #### TOOLS & WORKFLOW
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55" />
-  </a>
-  &nbsp;
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="55" height="55" />
-  </a>
-  &nbsp;
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="55" height="55" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="70">
+      <a href="https://git-scm.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://www.postman.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" />
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://www.php.net/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -180,30 +222,10 @@ Currently building a full-stack dietitian platform with a React Native mobile ap
 
 ### Currently Exploring
 
-```
+```text
 → OpenTelemetry & distributed tracing
 → Saga pattern (Choreography / Orchestration)
 → Outbox pattern for distributed data integrity
 → SignalR for real-time data pipelines
 → Redis distributed caching strategies
 → System observability & resilience engineering
-```
-
----
-
-### Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devlightening&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlightening&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devlightening&theme=tokyonight&hide_border=true" width="94%" />
-</p>
-
----
-
-<p align="center">
-  <i>Clean code, clean architecture, clean mind.</i>
-</p>
