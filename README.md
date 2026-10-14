@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  Computer Engineerbr>
   I build backend systems that stay correct under failure: event sourcing, messaging, idempotency and clear service boundaries.
 </p>
 
