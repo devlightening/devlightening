@@ -1,117 +1,78 @@
-<h1 align="center">Halil Yıldırım</h1>
-<h3 align="center">.NET Backend Developer | Distributed Systems</h3>
+<h1 align="center">Halil İbrahim Yıldırım</h1>
+<p align="center"><b>.NET Backend Developer</b> · Distributed systems · Event-driven architecture</p>
 
 <p align="center">
-  <a href="mailto:ce.hybusiness@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/0001myprofile/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/yyldrmhalil/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  Computer Engineering graduate (Tarsus University) based in Ankara, Türkiye.<br>
+  I build backend systems that stay correct under failure: event sourcing, messaging, idempotency, and clear boundaries.
+</p>
+
+<p align="center">
+  <a href="mailto:ce.hybusiness@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/0001myprofile/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://portfol-io-xi.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
 
-### Core Competencies
+## Featured projects
 
-Modern backend engineering is not merely about writing code; it is about architecting sustainable, flexible, and high-availability systems.
+| Project | What it is | Stack |
+|---|---|---|
+| **[Blinkr](https://github.com/devlightening/Blinkr)** | Map-first mobile app for live place signals ("is it crowded right now?"). Event-sourced microservices, server-owned trust rules, idempotent projections. | .NET 10 · EventStoreDB · RabbitMQ · MongoDB · YARP · Expo |
+| **[Dytopia](https://github.com/devlightening/MyDietitianMobileApp-Dytopia)** | Dietitian SaaS with ingredient analysis, diet plans and compliance tracking. 210 automated tests. | ASP.NET Core 8 · Clean Architecture · CQRS · EF Core · Next.js · Expo |
+| **[CloakAPI](https://github.com/devlightening/CloakAPI)** | Privacy firewall reverse proxy: JWT role-based PII masking, audit trail, admin dashboard. | .NET · YARP · PostgreSQL · Next.js |
+| **[RASP-LB](https://github.com/devlightening/RASP-LB-Adaptive-LB)** | Adaptive load balancer research: load-aware routing and bounded retry, benchmarked over repeated runs. | .NET 10 · YARP · Docker |
+| **[SentimentGuard](https://github.com/devlightening/SentimentGuard)** | Batch sentiment analysis with HMAC pseudonymization and a SHA-256 hash chain for tamper detection. | ASP.NET Core 8 · PySpark · MongoDB · React |
+| **[MicroCommerce](https://github.com/devlightening/MicroCommerce)** | Order → Stock → Payment flow with RabbitMQ events (choreography). | .NET · MassTransit · RabbitMQ · SQL Server · MongoDB |
 
-* **Ecosystem:** Developing enterprise-grade backend solutions within the .NET and Spring Boot ecosystems.
-* **Architecture:** Implementation of Clean Architecture and Domain-Driven Design (DDD) principles with strict layer separation and boundary management.
-* **Distributed Systems:** Expertise in microservices architecture, API Gateway integration, and cross-service data consistency.
-* **Design Patterns:** Proficient in adapting CQRS, Mediator, and Event-Driven approaches to manage complex business logic.
+### More
 
----
+- **[FoodFacts](https://github.com/devlightening/FoodFacts)** — barcode scanner that merges several product sources into plain-language food analysis (Expo + Express).
+- **[DriveNow](https://github.com/devlightening/DriveNow)** — car rental platform with Onion Architecture, CQRS and MediatR.
+- **[JAVERTArchitect](https://github.com/devlightening/JAVERTArchitect)** — cyber architecture training simulator · [live demo](https://javert-architect.vercel.app).
+- **[FuzzyBall](https://github.com/devlightening/FuzzyBall)** — Premier League predictor using a Mamdani fuzzy system · [live demo](https://fuzzyball-predictor.streamlit.app/).
 
-### Roadmap & Technical Progress
+## Microservice patterns, one repo each
 
-* Design and orchestration of containerized microservices using Docker.
-* Implementation of Saga (Choreography/Orchestration) and Outbox patterns for data integrity in distributed environments.
-* Asynchronous messaging and event-bus configurations utilizing RabbitMQ.
-* Distributed caching and data optimization strategies based on Redis.
-* Development of low-latency, real-time data transmission pipelines with SignalR.
-* Current Focus: System observability (OpenTelemetry), resilience engineering, and distributed consensus protocols.
+Small focused implementations I wrote to understand distributed-system patterns properly.
 
----
+| Topic | Repositories |
+|---|---|
+| Distributed transactions | [Saga · Choreography](https://github.com/devlightening/Microservices-SagaPattern-Choreography) · [Saga · Orchestration](https://github.com/devlightening/Microservices-SagaPattern-Orchestration) · [2PC transaction manager](https://github.com/devlightening/2PC-Distributed-Transaction-Manager) |
+| Messaging reliability | [Outbox / Inbox](https://github.com/devlightening/Microservices-OutBox-InBox-DesignPattern) · [Synchronization patterns](https://github.com/devlightening/Microservices-Synchronization-Patterns) · [Inter-service communication models](https://github.com/devlightening/Inter-ServiceCommunicationModels) |
+| CQRS and event sourcing | [CQRS](https://github.com/devlightening/Microservices-CQRS-Pattern) · [Event Store](https://github.com/devlightening/Microservices-Event-Store) · [Event Store read side](https://github.com/devlightening/Microservices-EventStore-ReadData) |
+| Gateways and traffic | [API Gateway · YARP](https://github.com/devlightening/Microservices-APIGateway-YARP) · [API Gateway · Ocelot](https://github.com/devlightening/Microservices-APIGateway-Ocelot) · [NGINX load balancing](https://github.com/devlightening/Microservices-NGINX-Load-Balancing) |
+| Observability | [Health checks](https://github.com/devlightening/Microservices-Health-Checks) · [Traceability](https://github.com/devlightening/Microservices-Traceability) |
 
-### Engineering Philosophy
+## Tech I work with
 
-* **Clarity Over Cleverness:** Prioritizing maintainable and readable code standards over unnecessary complexity.
-* **System Predictability:** Building predictable execution flows and transparent error handling mechanisms.
-* **Structural Integrity:** Focusing on long-term solutions that minimize technical debt during architectural decision-making.
-* **Pragmatic Approach:** Evaluating engineering problems through a rational lens of business requirements and performance trade-offs.
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF%20Core-512BD4)
+![YARP](https://img.shields.io/badge/YARP-0078D4)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+![EventStoreDB](https://img.shields.io/badge/EventStoreDB-5B2D8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
----
+## How I work
 
-### Professional Value
+- **Clarity over cleverness.** Readable code and explicit error handling first.
+- **Correctness under failure.** At-least-once delivery plus idempotent consumers, rather than claiming exactly-once.
+- **Measure before changing.** Benchmarks with repeated runs and honest limits (see RASP-LB).
+- **Write it down.** Each flagship project has an architecture overview, a validation section and a list of known limits.
 
-* Ability to translate business requirements into technical architecture while maintaining end-to-end system ownership.
-* Committed to clean code principles (SOLID) to ensure testable and well-documented codebases.
-* Analytical and structural approach to solving complex backend challenges.
+## Currently
 
----
+Observability with OpenTelemetry, resilience engineering, automated test coverage and CI for my flagship projects.
 
-### Technology Base
-
-#### CODING LANGUAGES
-<table align="center">
-  <tr>
-    <td align="center" width="90"><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" /></a><br>C#</td>
-    <td align="center" width="90"><a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" /></a><br>Java</td>
-    <td align="center" width="90"><a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" /></a><br>Python</td>
-    <td align="center" width="90"><a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" /></a><br>PHP</td>
-    <td align="center" width="90"><a href="https://en.cppreference.com/w/c"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" /></a><br>C</td>
-    <td align="center" width="90"><a href="https://en.cppreference.com/w/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" /></a><br>C++</td>
-  </tr>
-</table>
-
-#### ARCHITECTURE & TECHNOLOGIES
-<table align="center">
-  <tr>
-    <td align="center" width="85"><a href="https://dotnet.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" /></a><br>.NET</td>
-    <td align="center" width="85"><a href="https://spring.io/projects/spring-boot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" /></a><br>Spring</td>
-    <td align="center" width="85"><a href="https://www.rabbitmq.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="45" height="45" /></a><br>RabbitMQ</td>
-    <td align="center" width="85"><a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" /></a><br>Docker</td>
-    <td align="center" width="85"><a href="https://www.postman.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" /></a><br>Postman</td>
-    <td align="center" width="85"><a href="https://insomnia.rest/"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" width="45" height="45" /></a><br>Insomnia</td>
-  </tr>
-  <tr>
-    <td align="center" width="85"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" /></a><br>JS</td>
-    <td align="center" width="85"><a href="https://angular.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45" /></a><br>Angular</td>
-    <td align="center" width="85"><a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" /></a><br>TS</td>
-    <td align="center" width="85"><a href="https://unity.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45" height="45" /></a><br>Unity</td>
-    <td align="center" width="85"><a href="https://dotnet.microsoft.com/en-us/apps/aspnet/signalr"><img src="https://dotnet.microsoft.com/blob-assets/images/illustrations/swimlane-azure-signalr-logo.svg" width="45" height="45" /></a><br>SignalR</td>
-    <td align="center" width="85"><a href="https://jquery.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="45" height="45" /></a><br>jQuery</td>
-  </tr>
-</table>
-
-#### SYSTEM UTILITIES
-<table align="center">
-  <tr>
-    <td align="center" width="90"><a href="https://learn.microsoft.com/en-us/sql/sql-server/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" /></a><br>MSSQL</td>
-    <td align="center" width="90"><a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" /></a><br>MySQL</td>
-    <td align="center" width="90"><a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" /></a><br>Postgres</td>
-    <td align="center" width="90"><a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" /></a><br>MongoDB</td>
-    <td align="center" width="90"><a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" /></a><br>Git</td>
-    <td align="center" width="90"><a href="https://www.eventstore.com/"><img src="https://github.com/user-attachments/assets/584daf6f-9c01-47fc-ad4f-148d14824d94" width="50" height="50" /></a><br>EventStore</td>
-  </tr>
-</table>
----
-
-### Cyber-Space Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devlightening&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlightening&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devlightening&theme=tokyonight&hide_border=true" width="94%" />
-</p>
-
-> Clean code, clean architecture, clean mind.
+<sub>Open to junior .NET backend roles · Ankara, Türkiye</sub>
