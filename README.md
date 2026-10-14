@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Computer Engineering graduate (Tarsus University).<br>
+  Computer Engineerbr>
   I build backend systems that stay correct under failure: event sourcing, messaging, idempotency and clear service boundaries.
 </p>
 
